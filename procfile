@@ -1,0 +1,1 @@
+web: sh setup.sx && steamlit run app.py
