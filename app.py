@@ -3,7 +3,7 @@ import pickle
 import string
 from string import punctuation
 
-from nltk.tokenize import word_tokenize
+# from nltk.tokenize import word_tokenize
 import nltk
 from nltk.stem.porter import PorterStemmer
 nltk.download('punkt')
